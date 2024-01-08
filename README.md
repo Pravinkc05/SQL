@@ -37,5 +37,5 @@
    - Executed procedures for restoring databases in case of system failures or data corruption.
 
 **Security Measures:**
-    - Implemented user authentication and authorization to control access to the databases.
-    - Applied best practices for securing sensitive information, such as encrypting data and using secure connections.
+   - Implemented user authentication and authorization to control access to the databases.
+   - Applied best practices for securing sensitive information, such as encrypting data and using secure connections.
